@@ -5,7 +5,7 @@ Post /product
 Request:
 
 {
-    "id": "5f8d260d100da40c73082148" //optional
+    "id": "5f8d260d100da40c73082148", //optional fill if update, dont fill if insert
 	"name": "product1",
 	"price": 50000
 }
